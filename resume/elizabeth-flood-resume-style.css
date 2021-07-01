@@ -1,1 +1,14 @@
-elizabeth-flood-resume-style.css
+#body{
+  background-color: #B4B4B4;
+}
+
+.sectionheader{
+  font-size: 1.5em;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+}
+
+/*
+font-family: 'Dancing Script', cursive;
+font-family: 'Roboto Mono', monospace;
+*/
